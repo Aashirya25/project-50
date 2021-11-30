@@ -1,0 +1,44 @@
+ h4 {
+color:#C96991;
+}  
+
+.menu{
+    display: flex;
+    justify-content:space-between;
+    background-color: #A8BFE0;
+    font-size: 40px;
+    font-family: forte ;
+    font-weight: 100;
+    color: #D1512E;
+}
+body{
+    background-color:#aee983;
+    
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    gap: 10px;;
+    font-family: sans-serif; 
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 40px;
+}
+
+.origami {
+    border-radius: 40px;
+    background-color: white;
+    width:304px;
+    font-family:'Franklin Gothic Medium';
+}
+
+
+
+
+
+
+
+
+
+
